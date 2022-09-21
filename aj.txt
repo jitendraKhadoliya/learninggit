@@ -1,0 +1,2 @@
+this file was crreated on 15-09-2022 for updation perpose on github
+till now i already made git repo now i want to push this file in my repo
